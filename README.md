@@ -8,7 +8,7 @@ Data was taken from the movielens dataset
 The model uses both; content-based filtering techniques and collaborative filtering techniques.
 Algorithms Used : K-Nearest Neightbours, TF-IDFS, Singular Value Decomposition Model (SVD), Alternatining least Square (ALS)
 Optimised the SVD & ALS model.
-The Project Write-up is published on SSRN
+The Project Write-up is published on SSRN (https://paoers.ssrn.com/sol3/papers.cfm?abstract_id=3791837)
 
 # Project 2: Amazon Price Scrapper (https://github.com/smsaranyam/BlackFriday_pythonScrapper)
 
