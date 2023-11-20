@@ -17,6 +17,7 @@ This was part of a personal project where a python price scrapper was built in o
 I have also done an entire walkthrough video on youtube for the amazon price scapper and how you can build one too. Click Here For Youtube Video.
 
 # Project 3: Yahoo finance web scrapping package (https://github.com/smsaranyam/yahoo-finance-web-scrapping)
+
 This is a small experiment of using the yahoo_fin package that helps to scrape data from yahoo finance and is loaded with various metrics.
 
 If you're a beginner in python coding or any field for that case and want a starting point to use application of python for the field of finance. Then follow along, this post will be a great value add for all of you.
